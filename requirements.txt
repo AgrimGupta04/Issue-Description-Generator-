@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-groq
+groq
+openai
+requests
+python-dotenv
